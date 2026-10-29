@@ -1,0 +1,22 @@
+{
+  "wheel_id": 516,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-152",
+  "project": "mortgage-brokers-wollongong-c1bbb99c78eb9c32129903b491c5c8a4042",
+  "parent_t1_ref": "homeloanbrokerwollongong-011",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage brokers wollongong",
+  "intended_url": "https://sitesau.github.io/homeloanbrokerwollongong-152/",
+  "tier": "T2",
+  "writeback_nonce": "bdb8289beaaae19a",
+  "links": [
+    {
+      "target_url": "https://mortgage-brokers-wollongong-homeloanbrokerwollongong-011-cf881b.gitlab.io/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
